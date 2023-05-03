@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alfredo Kalu Orie - [Github](https://github.com/xclusivfred)
-Princewill Kalu Orie - [Github](https://github.com/pokkode)
+Ofeinmu Abraham - [Github](https://github.com/abrahamesane)
 
 
 
